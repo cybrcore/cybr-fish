@@ -1,6 +1,6 @@
 # ---------------------------------------
-# CYBRfish    fish shell theme & config (part of cybrland)
-# Project:    https://github.com/scherrer-txt/cybrland
+# cybr-fish   lucid theme for fish
+# Project:    https://github.com/cybrcore/cybr-fish
 # Author:     scherrer-txt   |   License:     GPL-3.0
 # Source:     ~/.config/fish/config.fish
 # ---------------------------------------
