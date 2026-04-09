@@ -14,7 +14,7 @@ fc-cache -fv
 ```
 - Make sure kitty is installed: `sudo pacman -S kitty` and [cybrcore theme](https://github.com/cybrcore/cybr-kitty) is applied
 - Make sure fish is installed: `sudo pacman -S fish`
-- See [Installation Guide](https://github.com/cybrcore/cybrland/blob/main/INSTALL.md) if you`re coming from [cybr-hyprland](https://github.com/cybrcore/cybrland) and haven't set up prerequisites yet
+- See [Installation Guide](https://github.com/cybrcore/cybrdots/blob/main/INSTALL.md) if you're coming from [cybr-hyprland](https://github.com/cybrcore/cybr-hyprland) and haven't set up prerequisites yet
 - [fish Github](https://github.com/fish-shell/fish-shell) | [Arch Wiki](https://wiki.archlinux.org/title/Fish)
 
 ## 1. Create config file
